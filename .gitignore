@@ -10,7 +10,6 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
-*.slnx.docstates
 
 # OS
 .DS_Store
@@ -27,9 +26,6 @@ obj/
 .env.*
 appsettings.Development.json
 appsettings.Local.json
-Seattle EDP Advanced CFMP.csv
-Seattle EDP Advanced CFMP.xlsx
-Student Assessment.xlsx
 
 # Playwright
 .playwright/
